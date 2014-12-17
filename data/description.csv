@@ -1,8 +1,8 @@
-abel,sublabel,description,styles,bgcolor
-可燃ごみ,,,img/moyasu02.svg,#ff6e59
-不燃ごみ,,,img/moyasanai02.svg,#685ecf
-粗大ごみ,,,img/shigen02.svg,#27a047
-資源ごみ（缶・びん）,,,img/bin02.svg,#00b7c0
-資源ごみ（紙・繊維）,,,img/shigen02.svg,#77ae1f
-資源ごみ（ペットボトル・容器包装プラスチック）,,,img/shigen02.svg,#81d12e
-有害ごみ,,,img/moyasanai02.svg,#9263d3
+label,sublabel,description,styles,bgcolor
+可燃ごみ,,,img/moyasu02.svg,#FF00BF
+不燃ごみ,,,img/moyasanai02.svg,#00DFFF
+粗大ごみ,,,img/shigen02.svg,#FF9900
+資源ごみ（缶・びん）,,,img/bin02.svg,#00FF60
+資源ごみ（紙・繊維）,,,img/shigen02.svg,#FFFF00
+資源ごみ（ペットボトル・容器包装プラスチック）,,,img/shigen02.svg,#FFA975
+有害ごみ,,,img/moyasanai02.svg,#FF7575
